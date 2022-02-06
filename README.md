@@ -34,9 +34,3 @@ Here are some ideas to get you started:
 <p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--GztYYtek--/oljpqjl8axqyvuxyf8dx.png" lat="nodejs" width="16px" height="18px" /> NodeJs</p>
 <p><img src="https://expressjs.com/images/express-facebook-share.png" lat="express" width="36px" height="18px" /> Express</p>
 
-# Working on:
-
-Trying to create a e-commerce
-  - [DevStore Backend](https://github.com/hiarlyfs/DevStore-backend)
-  - [DevStore Frontend](https://github.com/hiarlyfs/DevStore-frontend)
-
